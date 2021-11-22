@@ -3,7 +3,7 @@ This repository contains the numpy.random assignment for assessment as part of t
 
 ## View Notebook
 
-It is <b>highly recommended</b> to use the following programs to view and interact with the notebook as github does not always render the notebook effectively:
+<i>It is <b>highly recommended</b> to use the following programs to view and interact with the notebook as github does not always render the notebook effectively:</i>
 
 View both static and dynamic versions of the notebook using the nbviewer and binder buttons below. 
 
