@@ -10,3 +10,6 @@ Static version: &nbsp;[![nbviewer](https://raw.githubusercontent.com/jupyter/des
 Dynamic version: &nbsp;[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Izardo/Numpy-Random-Assignment/HEAD)
 
 ## How to install numpy module and run notebook
+
+
+Ensure the latest numpy version 1.21 is installed on your machine. 
