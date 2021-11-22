@@ -11,12 +11,6 @@ Static version: &nbsp;[![nbviewer](https://raw.githubusercontent.com/jupyter/des
 
 Dynamic version: &nbsp;[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Izardo/Numpy-Random-Assignment/HEAD)
 
-<<<<<<< HEAD
-## How to install numpy module and run notebook
-
-
-Ensure the latest numpy version 1.21 is installed on your machine. 
-=======
 ## Clone repository to your own machine
 
 If you would like to run the notebook on your own machine:
@@ -28,4 +22,3 @@ If you would like to run the notebook on your own machine:
 - Go to the folder where the repository is cloned.
 - Type: 'Jupyter lab' into the command prompt. 
 - The notebook should appear in your browser. 
->>>>>>> 9f373a3c7b32d69c9f1dcea93aa9708215da678c
