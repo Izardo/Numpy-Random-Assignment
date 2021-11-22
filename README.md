@@ -3,6 +3,8 @@ This repository contains the numpy.random assignment for assessment as part of t
 
 ## View Notebook
 
+To view this notebook it is <b>highly recommended</b> to use the following programs for correct rendering of the notebook:
+
 View both static and dynamic versions of the notebook using the nbviewer and binder buttons below. 
 
 Static version: &nbsp;[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/Izardo/Numpy-Random-Assignment/blob/main/numpy-random.ipynb)
