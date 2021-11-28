@@ -1,6 +1,10 @@
 # Numpy-Random-Project
 This repository contains the numpy.random assignment for assessment as part of the Higher Diploma in Data Analytics, GMIT (2021).
 
+Completed by: Isabella Doyle
+Student Number: GO0398800
+Lecturer: Brian McGinley
+
 ## View Notebook
 
 <i>It is <b>highly recommended</b> to use the following programs to view and interact with the notebook as github does not always render the notebook effectively:</i>
