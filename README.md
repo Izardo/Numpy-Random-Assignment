@@ -15,10 +15,10 @@ Dynamic version: &nbsp;[![Binder](https://mybinder.org/badge_logo.svg)](https://
 
 If you would like to run the notebook on your own machine:
 
-- Install anaconda, if you have not already done so. You can click this link for instructions: [anaconda installation](https://docs.anaconda.com/anaconda/install/index.html)
+- You must have anaconda installed. Otherwise, you can click this link for instructions on how to install it: [anaconda installation](https://docs.anaconda.com/anaconda/install/index.html)
 - Ensure that all modules in the requirements.txt file are installed and up-to-date.
 - Clone this repository. Instructions: [here](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
 - Go to CMDR on windows or Terminal on mac.
-- Go to the folder where the repository is cloned.
-- Type: 'Jupyter lab' into the command prompt. 
-- The notebook should appear in your browser. 
+- Navigate to the folder where the repository is cloned.
+- Type: 'Jupyter lab' into the command prompt and press enter. 
+The notebook should now open in your browser. 
